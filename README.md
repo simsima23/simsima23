@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Samia!
 
-<!--
-**simsima23/simsima23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student in the dual-degree engineering program between Skidmore College and Dartmouth. I build software at the intersection of mobile development, AI, and human-centered design.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Break Through Tech AI Fellow** — completing a 12-month ML program (selected from 4,300+ applicants), working through the ML lifecycle, supervised learning, and model evaluation
+- **HCI/CS Research Assistant @ Skidmore College** — designing wearable privacy-protection systems and studying attitudes toward consent and photo-taking with families
+
+## Languages & Tools
+
+**Languages:** Python · Java · JavaScript · Dart · Swift · HTML/CSS  
+**Frameworks/Libraries:** SwiftUI · Flutter · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn  
+**Tools:** Git · CI/CD · Arduino
+ 
