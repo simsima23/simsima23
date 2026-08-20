@@ -1,15 +1,34 @@
-# 👋 Hi, I'm Samia!
+<div align="center">
 
-CS student in the dual-degree engineering program between Skidmore College and Dartmouth. I build software at the intersection of mobile development, AI, and human-centered design.
+# Samia
 
-## What I'm working on
+**Dual-Degree Engineering Student**
+Computer Engineering @ Dartmouth College · Computer Science @ Skidmore College
 
-- **Break Through Tech AI Fellow** — completing a 12-month ML program (selected from 4,300+ applicants), working through the ML lifecycle, supervised learning, and model evaluation
+</div>
+
+---
+
+## About
+
+CS/ML student building at the intersection of applied ML, HCI, and privacy-enhancing technology. Break Through Tech AI Fellow (selected from 4,300+ applicants).
+
+---
+
+## Current Work
+- **Break Through Tech AI Fellow** — 12-month ML program covering the ML lifecycle, supervised learning, and model evaluation.
+- **Notebar (iOS, OKNY) — Front End/AI Intern** — Built concept-extraction pipelines, hallucination-detection gates, and a synthetic persona benchmarking system for on-device ML models.
 - **HCI/CS Research Assistant @ Skidmore College** — designing wearable privacy-protection systems and studying attitudes toward consent and photo-taking with families
 
-## Languages & Tools
 
-**Languages:** Python · Java · JavaScript · Dart · Swift · HTML/CSS  
-**Frameworks/Libraries:** SwiftUI · Flutter · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn  
-**Tools:** Git · CI/CD · Arduino
- 
+---
+
+## Skills
+
+**Languages** &nbsp;·&nbsp; Python · Java · Swift · JavaScript · Dart · SQL
+
+**ML / Data** &nbsp;·&nbsp; scikit-learn · TensorFlow/Keras · Pandas · NumPy · LangChain
+
+**Dev** &nbsp;·&nbsp; SwiftUI · Flutter · Node.js · Git/GitHub · CI/CD
+
+---
